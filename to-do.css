@@ -1,0 +1,52 @@
+body{
+    background: #401f52;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    background-color: #913654;
+    box-shadow: #401f52 100%;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.heading{
+    
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20%;
+}
+
+.task-list {
+    margin-bottom: 20px;
+}
+
+.task-list h2 {
+    margin-top: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
